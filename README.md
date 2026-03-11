@@ -17,14 +17,6 @@ Using tools like:
 ## Sample Outputs
 Here are some examples of my GenAI creations:
 
-![Explainer Image 1](explainer1.jpg)
-![Breaking News Newsletter](newsletter.png)
-![Pitch Deck Presentation](pitch-deck.png)
-![Music Festival Instagram Post](music-post.png)
-![Graduation Certificate Style](certificate.png)
-## Why Shelby?
-Excited to use Shelby Media Kit for storing/serving GenAI content with cryptographic proofs for authenticity and ownership. This will help reduce costs and enable fast global delivery for my creations.
-
 Stay tuned for uploads/tests once Early Access is approved!
 
 Follow me: [@ELMONTA595507 on X](https://x.com/ELMONTA595507)
