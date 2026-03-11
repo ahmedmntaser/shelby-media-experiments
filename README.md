@@ -15,12 +15,13 @@ Using tools like:
 - Sample outputs: See images below!
 
 ## Sample Outputs
-![Explainer Image](image(8).jpg)
-![Breaking News Newsletter](White%20and%20Orange%20Simple%20Breaking%20News%20Newsletter.png)
-![Pitch Deck Presentation](Orange%20Black%20Bold%20Sketch%20Pitch%20Deck%20Presentation.png)
-![Music Festival Post](Green%20Pink%20and%20Black%20Modern%20Brutalist%20Type%20Music%20Festival%20Instagram%20Post.png)
-![Graduation Certificate](Graduation%20Certificate%20in%20Teal%20Elegant%20Style.png)
+Here are some examples of my GenAI creations:
 
+![Explainer Image 1](explainer1.jpg)
+![Breaking News Newsletter](newsletter.png)
+![Pitch Deck Presentation](pitch-deck.png)
+![Music Festival Instagram Post](music-post.png)
+![Graduation Certificate Style](certificate.png)
 ## Why Shelby?
 Excited to use Shelby Media Kit for storing/serving GenAI content with cryptographic proofs for authenticity and ownership. This will help reduce costs and enable fast global delivery for my creations.
 
